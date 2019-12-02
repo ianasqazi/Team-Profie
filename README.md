@@ -71,7 +71,7 @@ node app.js
 
 
 
-![screenrecording_TestFunctions](/sample/ScreenShot_npmTest.gif)
+![screenrecording_TestFunctions](/sample/ScreenRecording_npmTest.gif)
 
 ## HTML Output
 
