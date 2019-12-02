@@ -45,6 +45,7 @@ npm --version
 
 - Inquirer -- Command Line Interface
 - Open -- Open files in browser
+- Jest -- To test the functions ( DEV Dependency)
 
 ## Running the Application
 
@@ -64,7 +65,15 @@ All packages will be installed and now run the application with the command belo
 node app.js
 ```
 
+## Running the TESTS
+
+`npm test`
+
+
+
+![screenrecording_TestFunctions](/sample/ScreenShot_npmTest.gif)
+
 ## HTML Output
 
-![screenrecording_DevProfile](/sample/ScreenShot_TeamRoaster.png)
+![screenrecording_TeamRoaster](/sample/ScreenShot_TeamRoaster.png)
 
