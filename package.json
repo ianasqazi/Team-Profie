@@ -13,7 +13,7 @@
     "jest": "^24.9.0"
   },
   "scripts": {
-    "test": "node test.js"
+    "test": "jest --verbose test/"
   },
   "repository": {
     "type": "git",
